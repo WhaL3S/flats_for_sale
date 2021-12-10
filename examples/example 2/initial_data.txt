@@ -1,0 +1,5 @@
+Please enter the number of rooms you want
+1
+
+Please enter the maximum price you want
+33000
