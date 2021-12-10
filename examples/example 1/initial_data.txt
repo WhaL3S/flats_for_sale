@@ -1,0 +1,6 @@
+// Initial data entered in the console
+Please enter the number of rooms you want
+2
+
+Please enter the maximum price you want
+30000
