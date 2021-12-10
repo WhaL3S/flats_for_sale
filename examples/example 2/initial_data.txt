@@ -1,3 +1,4 @@
+// Initial data entered in the console
 Please enter the number of rooms you want
 1
 
